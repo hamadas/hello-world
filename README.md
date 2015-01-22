@@ -1,4 +1,5 @@
 # hello-world
+<!DOCTYPE html>
 <html>I don't know what I'm doing
 
 <body>
